@@ -5,6 +5,7 @@ DHT dht(DHTPIN, DHTTYPE);
 
 /*
   Arduino Code: WeatherByte 
+  -> http://www.ladyada.net/learn/sensors/dht.html
 */
 
 void setup() {
